@@ -1,10 +1,8 @@
-import './App.css';
-import Router from './shared/Router';
+import "./App.css";
 
 function App() {
-  return (
-    <Router />
-  );
+  //TODO: 라우터 연결
+  return <div>라우터를 연결해주세요.</div>;
 }
 
 export default App;
